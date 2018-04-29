@@ -44,7 +44,7 @@ class About extends React.Component {
             return (
               <div className='Skill'>
                 <h1 className={this.state.hover === skill ? '' : 'no-hover'}>{skill}</h1>
-                <img key={skill} src={require(`../../content/skills/${skill}.png`)} alt={skill} width={'50%'}
+                <img key={skill} src={require(`../../content/skills/${skill}.png`)} alt={skill} width={'30%'}
                 onMouseEnter={() => this.setState({hover: skill})}
                 onMouseLeave={() => this.setState({hover: null})}
                 onClick={() => {window.open(`http://google.com?q=${skill}`)}}/>
