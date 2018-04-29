@@ -50,7 +50,7 @@
     "build": "gatsby build",
     "dev": "gatsby develop -o",
     "postinstall": "node ./bin/hello.js",
-    "heroku-postbuild": "gatsby build",
+    "heroku-postbuild": "gatsby build"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
