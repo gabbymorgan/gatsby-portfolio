@@ -3,6 +3,10 @@
 
 @import "../../config/variables";
 
+.Header-link {
+  font-size: 3em !important;
+}
+
 .no-hover {
   opacity: 0
 }
@@ -13,6 +17,10 @@
   top: 60px;
   background: #f3f3f3;
   height: 30rem;
+}
+
+.Skill img:hover {
+  opacity: .65;
 }
 
 .bottom-text {
@@ -66,4 +74,7 @@
 .bm-item-list {
   color: #b8b7ad;
   padding: 0.8em;
+}
+.Header-link {
+  font-size: 20px;
 }

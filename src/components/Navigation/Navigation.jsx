@@ -48,7 +48,7 @@ export default class Navigation extends Component {
             </div>
             <div className={styles.socialMedia}>
               <span>
-                <a href="https://www.github.com/runranron" target="_blank" rel="noopener noreferrer">
+                <a className="Header-link" href="https://www.github.com/runranron" target="_blank" rel="noopener noreferrer">
                   <FaGithub />
                 </a>
               </span>
