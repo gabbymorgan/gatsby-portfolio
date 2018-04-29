@@ -1,8 +1,8 @@
 ---
 client: "Lambda School"
 title: "Bootstrap Sprint"
-cover: "./spacecamp.png"   
-date: "2018-03-15"
+cover: "./spacecamp.png"
+date: "2018-02-05"
 service: "Simple Web Page"
 ---
 # Description

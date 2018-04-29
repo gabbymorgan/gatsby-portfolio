@@ -2,7 +2,7 @@
 client: "Just For Fun"
 title: "Tic Tac Toe"
 cover: "./tictactoe.png"   
-date: "2018-03-15"
+date: "2018-03-20"
 service: "Game Design"
 ---
 # Description
