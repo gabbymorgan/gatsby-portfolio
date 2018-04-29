@@ -52,7 +52,7 @@ class About extends React.Component {
               </div>
             ) 
           })}
-          <p className='bottom-text'>...and many more. Please feel free to <a href=''>contact me</a> to talk about your project. Thank you.</p>
+          <p className='bottom-text'>...and many more. Please feel free to <a href='/contact'>contact me</a> to talk about your project. Thank you.</p>
           </Container>
         <Footer />
       </div>
