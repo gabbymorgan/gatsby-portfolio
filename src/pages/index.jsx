@@ -14,7 +14,7 @@ const Index = props => {
       <div>
         <ProjectListing projectEdges={projectEdges} />
       </div>
-      <Footer />
+      <Footer/>
     </div>
   );
 };

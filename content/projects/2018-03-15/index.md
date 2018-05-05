@@ -9,4 +9,4 @@ service: "UI Development"
 
 A responsive web-app for note-taking that uses React for UI rendering, Redux for state management, and MongoDB/Express for data persistence. Both front-end and back-end have 100% code testing coverage using Mocha, Chai, Chai-HTTP, and Sinon. 
 
-[Live Demo](http://william-notes-project.herokuapp.com)
+[Live Demo](https://romantic-mirzakhani-d12553.netlify.com/)

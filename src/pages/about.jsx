@@ -20,7 +20,6 @@ const array = ['Agile',
   'Responsive Design',
   'REST',
   'VS Code'];
-const skillsText = {};
 
 class About extends React.Component {
   constructor() {
@@ -48,7 +47,6 @@ class About extends React.Component {
                 onMouseEnter={() => this.setState({hover: skill})}
                 onMouseLeave={() => this.setState({hover: null})}
                 onClick={() => {window.open(`http://google.com?q=${skill}`)}}/>
-                <p>{skillsText[skill]}</p>
               </div>
             ) 
           })}
