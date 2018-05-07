@@ -9,4 +9,4 @@ service: "Blog Site"
 
 Single page web app streaming 80's music videos on shuffle. Custom volume and playback controls. 
 
-[Live Demo](http://www.tubular-music.com)
+[Live Demo](http://tubular-music.com)
