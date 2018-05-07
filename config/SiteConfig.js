@@ -10,7 +10,7 @@ module.exports = {
   userTwitter: 'ronzilla-pelton', // Twitter Username
   // og: Meta Tags
   ogSiteName: 'ronnie', // Facebook Site Name
-  googleAnalyticsID: 'UA-12345689-1',
+  googleAnalyticsID: '',
   copyright: 'Copyright © 2018 William Pelton', // Copyright in the footer of the site
   // You can translate these three words into your language if you want.
   // They'll be shown on the project page header
